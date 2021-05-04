@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PutMethod" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-04T13:54:04" hostname="Sumaiyas-MacBook-Pro.local" time="2.005">
+  <properties/>
+  <testcase name="Updateuser" classname="PutMethod" time="2.005"/>
+  <system-out><![CDATA[200
+{"name":"morpheus","job":"zion resident","updatedAt":"2021-05-04T13:54:06.892Z"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
